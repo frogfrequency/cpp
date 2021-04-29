@@ -4,6 +4,11 @@
 Debug/
 Solution_1/.vs/
 Solution_1/Debug/
+*vcxproj
+*vcxproj.filters
+*vcxproj.user
+*.sln
+
 
 
 # Prerequisites
